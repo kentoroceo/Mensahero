@@ -15,6 +15,7 @@
 * [C#]
 * [ASP.NET]
 * [.NET CORE 5]
+* [JavaScript (VanillaJS)]
 
 <!-- GETTING STARTED -->
 ## Getting Started
