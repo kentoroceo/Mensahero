@@ -16,12 +16,14 @@
 * [ASP.NET]
 * [.NET CORE 5]
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Just clone and run using Microsoft Visual Studio 
+* Clone
+* Setup Database 
+* Manually add atleast one user to database
+* Open Mensahero.sln (might need to set mensahero as start up project)
+* Run using Microsoft Visual Studio
 
 
 <!-- SQL DATABASE CREATE -->
@@ -78,6 +80,11 @@ GO
 
 
   ```
+
+  <!-- USAGE EXAMPLES -->
+## Usage
+
+Login
 
 
 
