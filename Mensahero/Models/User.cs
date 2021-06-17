@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Identity;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -8,9 +9,8 @@ namespace Mensahero.Models
 {
     public class User
     {
-        [Key]
-        public int UserId { get; set; }
+        public int Id { get; set; }
         public string Username { get; set; }
-        public string Password { get; set; }
+        public string Passowrd { get; set; }
     }
 }

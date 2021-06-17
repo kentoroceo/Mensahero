@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mensahero", "Mensahero\Mensahero.csproj", "{AE970A55-9D9F-4587-80DB-5D8C65EEE41C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "EncryptionMessage\Encryption.csproj", "{EC6801DD-11EB-45D5-9E45-57F424E6BEEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AE970A55-9D9F-4587-80DB-5D8C65EEE41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE970A55-9D9F-4587-80DB-5D8C65EEE41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE970A55-9D9F-4587-80DB-5D8C65EEE41C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC6801DD-11EB-45D5-9E45-57F424E6BEEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC6801DD-11EB-45D5-9E45-57F424E6BEEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC6801DD-11EB-45D5-9E45-57F424E6BEEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC6801DD-11EB-45D5-9E45-57F424E6BEEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
