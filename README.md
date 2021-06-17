@@ -1,6 +1,6 @@
 # Mensahero
 
-SQL DB If needed
+#SQL DB If needed:
 
 
 IF OBJECT_ID(N'[__EFMigrationsHistory]') IS NULL
